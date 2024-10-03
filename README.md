@@ -28,7 +28,12 @@ $${v}_i(t+1) = v_i(t) + c_1 {\left( p_i - x_i(t) \right) }+ c_2 \left( \sum_j x_
 ![gif that shows how program works](animation/anim.gif)
 
 In the current example every agent is looking for target in such sequence:
+
 green -> red -> blue -> yellow -> magenta -> cyan
+
+Also every agent isn't shown directly. Agent is shown only when it changes the direction of its way.
+
+And the color corresponds to the target color agent looking for.
 
 ## Example: A Single Agent's Behavior
 A single agent in this system operates by adhering to simple rules:
