@@ -1,6 +1,7 @@
 ﻿  SwarmIntelligence.cpp
-D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(453,21): warning C4018: '<': signed/unsigned mismatch
-D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(501,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(526,9): warning C4101: 'msX': unreferenced local variable
-D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(526,14): warning C4101: 'msY': unreferenced local variable
+D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(514,21): warning C4018: '<': signed/unsigned mismatch
+D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(592,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(840,23): warning C4018: '<': signed/unsigned mismatch
+D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,9): warning C4101: 'msX': unreferenced local variable
+D:\_My_Projects\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,14): warning C4101: 'msY': unreferenced local variable
   SwarmIntelligence.vcxproj -> D:\_My_Projects\SwarmIntelligence\Debug\SwarmIntelligence.exe

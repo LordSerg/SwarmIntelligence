@@ -1,0 +1,14 @@
+﻿  SwarmIntelligence.cpp
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(592,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,9): warning C4101: 'msX': unreferenced local variable
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,14): warning C4101: 'msY': unreferenced local variable
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwGetVideoMode
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwGetWindowContentScale
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwPollEvents
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwInit
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwGetPrimaryMonitor
+SwarmIntelligence.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+D:\_My_Projects\s2\SwarmIntelligence\x64\Release\SwarmIntelligence.exe : fatal error LNK1120: 9 unresolved externals

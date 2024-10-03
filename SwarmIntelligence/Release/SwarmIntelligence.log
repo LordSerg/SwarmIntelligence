@@ -1,0 +1,12 @@
+﻿  SwarmIntelligence.cpp
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(514,21): warning C4018: '<': signed/unsigned mismatch
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(592,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(840,23): warning C4018: '<': signed/unsigned mismatch
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,9): warning C4101: 'msX': unreferenced local variable
+D:\_My_Projects\s2\SwarmIntelligence\SwarmIntelligence\SwarmIntelligence.cpp(617,14): warning C4101: 'msY': unreferenced local variable
+  Generating code
+  1 of 97 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SwarmIntelligence.vcxproj -> D:\_My_Projects\s2\SwarmIntelligence\Release\SwarmIntelligence.exe

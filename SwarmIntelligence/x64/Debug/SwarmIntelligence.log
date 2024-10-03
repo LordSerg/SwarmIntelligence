@@ -1,0 +1,11 @@
+﻿SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwGetPrimaryMonitor referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwGetVideoMode referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwGetWindowContentScale referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+SwarmIntelligence.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+D:\_My_Projects\SwarmIntelligence\libs\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\_My_Projects\s2\SwarmIntelligence\x64\Debug\SwarmIntelligence.exe : fatal error LNK1120: 9 unresolved externals
