@@ -25,7 +25,7 @@ $${v}_i(t+1) = v_i(t) + c_1 {\left( p_i - x_i(t) \right) }+ c_2 \left( \sum_j x_
 
 ## Program example
 
-![gif that shows how program works]()
+![gif that shows how program works](animation/anim.gif)
 
 ## Example: A Single Agent's Behavior
 A single agent in this system operates by adhering to simple rules:
